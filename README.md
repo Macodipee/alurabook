@@ -47,5 +47,5 @@ O projeto utiliza **SwiperJS** para criar carrosséis interativos e responsivos,
 
 ### Versão Mobile
 <p align="center">
-  <img src="https://imgur.com/a/vVckKBt" alt="Screenshot da versão mobile">
+  <img src="https://i.imgur.com/PJGI4Nc.png" alt="Screenshot da versão mobile">
 </p>
